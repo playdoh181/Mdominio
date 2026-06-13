@@ -1,0 +1,2 @@
+# Mdominio
+Script Termux
