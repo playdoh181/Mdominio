@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/playdoh181/Mdominio```
 
-```bash $ cd ctfr```
+```bash $ cd Mdominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
